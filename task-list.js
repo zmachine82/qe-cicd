@@ -11,4 +11,3 @@ export class TaskList {
         this.tasks = this.tasks.filter(t => t !== task);
     }
 }
-
